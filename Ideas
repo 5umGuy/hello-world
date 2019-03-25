@@ -1,1 +1,7 @@
 Maybe there could be a function that allows the initial creator of an idea to track it's progress conveniently.  This could work through a process of artists' submitting scratch tracks that others' could sample and decide if they want to create a new branch from.  There would need to be information stored tracking the contributions and time stamps of users to assure that credibility is given to appropriate users.  It would be a really neat way to find inspiration and see what's possible with an unfinished idea.  The users submitting scratch tracks seeing this may then be more involved in contributing to other users' branches.
+
+Needs:
+-audio sequencing web application written in JavaScript or Electron.
+-a server, currently GitHub's which may end up not being ideal when the service is launched, but should be good for testing and collaborative purposes.
+-artists(web site designers, musicians, specifically, I'm sure a lot of others.
+
